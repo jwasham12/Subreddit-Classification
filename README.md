@@ -1,11 +1,11 @@
 ## Problem Statement
 
-**Using Natural Language Process (NLP) and machine learning methods to analyze and classify posts from two different subreddits.**
+**Obtain the data using API and perform Natural Language Process (NLP) combine with machine learning methods to analyze and classify posts from two different subreddits.**
     
     
 ## Executive Summary
 
-Reddit is an American social news aggregation, web content rating, and discussion website founded by Steven Huffman and Alexis Ohanian in 2005. Registered members submit content to the site such as links, text posts, and images which are organized by subject into user-created boards called "subreddits". Since there are many subreddits covering a variety of topics including news, science, movies, music, and image-sharing, creating a system that could classify posts into each different subreddits might be helpful in the future. In order to demonstrate the filtering system, I obtained the data (title and text) from republican and democrat subreddit and created a classifying model using natural language processing combining with a machine learning algorithm. 
+Reddit is an American social news aggregation, web content rating, and discussion website founded by Steven Huffman and Alexis Ohanian in 2005. Registered members submit content to the site such as links, text posts, and images which are organized by subject into user-created boards called "subreddits". Since there are many subreddits covering a variety of topics including news, science, movies, music, and image-sharing, creating a system that could classify posts into each different subreddits might be helpful in the future. In order to demonstrate the filtering system, I obtained the data (title and text) from republican and democrat subreddit and created a classifying model using natural language processing combining with machine learning algorithms. 
 
 ## Data Dictionary
 
